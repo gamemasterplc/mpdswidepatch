@@ -22,3 +22,7 @@ Place a copy of the Mario Party DS ROM (US version) in the root directory, name 
 Running
 -------------
 The output of building will be named "mpdsws.nds" and will be significantly smaller than the input ROM. It can be run directly with the custom MelonDS build. DS Download Play is compatible with a DS firmware modified to bypass signature checks running on other consoles.
+
+Video
+-------------
+A link to the video can be found at https://www.youtube.com/watch?v=Jz9c95VsKs4.
